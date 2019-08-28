@@ -19,6 +19,7 @@ dist
 
 # vn.py
 .vntrader
+\temp
 
 # Visual Studio intermediate files
 *.exp
